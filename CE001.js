@@ -6,6 +6,7 @@ function setup() {
   canvas = createCanvas(windowWidth, windowHeight);
   canvas.position(0, 0);
   canvas.style('z-index', ' -1');
+  canvas.style('position', 'fixed');
   c1 = color(0);
   c2 = color('#eeeeee');
   // pixelDensity(2);
