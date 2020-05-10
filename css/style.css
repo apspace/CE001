@@ -18,19 +18,16 @@ h1{
 	margin: 0;
 	font-size: 1em;
 }
-
 p {
 	padding: 0;
 	margin: 0;
 }
-
 a{
 	color: black;
 }
 a:hover{
 	text-decoration: none;
 }
-
 footer {
 	position: fixed;
 	bottom: 30px;
